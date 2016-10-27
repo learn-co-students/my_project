@@ -32,3 +32,6 @@ Here are my changes.
 >>>>>>> added my changes
 
 Better feature.
+
+
+Another feature.
