@@ -26,12 +26,14 @@ Complete User Login
 =======
 
 Here are my changes.
-      -
+      -- (user_login_branch)
      |
-- - -
->>>>>>> added my changes
+     - - -
+
 
 Better feature.
 
 
 Another feature.
+
+- - - X
