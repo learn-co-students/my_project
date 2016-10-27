@@ -14,6 +14,6 @@ foo
 git stuff
 
 More stuff
-      -
-     |
-- - -
+        _
+        |
+- - - - |-
