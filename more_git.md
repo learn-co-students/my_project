@@ -14,6 +14,7 @@ foo
 git stuff
 
 More stuff
+
         _
         |
 - - - - |-
@@ -22,3 +23,10 @@ More stuff
 One ahead
 Finishes Good Stuff
 Complete User Login
+=======
+
+Here are my changes.
+      -
+     |
+- - -
+>>>>>>> added my changes
