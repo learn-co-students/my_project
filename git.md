@@ -25,3 +25,6 @@ Team
   - 6 engineers, tech lead
   - ux
   - product manager
+
+
+Git Lecture
